@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: akokko.com
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
